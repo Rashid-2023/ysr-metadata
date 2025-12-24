@@ -1,0 +1,7 @@
+{
+  "name": "YSR",
+  "symbol": "YSR",
+  "description": "YSR (Your Sustainable Resource) is a fixed-supply jetton on the TON blockchain. Ownership renounced. No minting. Voluntary burn enabled.",
+  "decimals": 9,
+  "image": "https://rashid-2023.github.io/ysr-metadata/ysr-logo-512.png"
+}
